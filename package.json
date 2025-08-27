@@ -36,7 +36,7 @@
     "react-dom": "^18",
     "react-hook-form": "^7.43.9",
     "react-tabs": "^6.0.2",
-    "sharp": "^0.32.6",
+    "sharp": "^0.34.3",
     "web3": "1.10.3"
   },
   "devDependencies": {
